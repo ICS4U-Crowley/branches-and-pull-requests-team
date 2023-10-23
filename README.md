@@ -4,10 +4,10 @@
 
 ## Completed by:
 
+* Anthony
 * Daniel
 * David
 * Dante
-
 
 ## 🤓 Course overview and learning outcomes 
 
