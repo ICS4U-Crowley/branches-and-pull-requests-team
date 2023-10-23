@@ -4,6 +4,7 @@
 
 ## Completed by:
 
+* Thomas
 * Anthony
 * Daniel
 * David
