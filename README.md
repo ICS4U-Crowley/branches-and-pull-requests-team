@@ -4,6 +4,7 @@
 
 ## Completed by:
 * David
+* Dante
 
 ## 🤓 Course overview and learning outcomes 
 
