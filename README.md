@@ -3,7 +3,7 @@
 >physcrowley a modifié ce cours pour ne garder que les items en lien avec les branches et les pull requests
 
 ## Completed by:
-* ...
+* Dante
 
 ## 🤓 Course overview and learning outcomes 
 
